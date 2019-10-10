@@ -1,0 +1,12 @@
+D:\kvadratnouravnenie3\upr4\upr4\bin\Debug\upr4.exe.config
+D:\kvadratnouravnenie3\upr4\upr4\obj\Debug\upr4.csprojResolveAssemblyReference.cache
+D:\kvadratnouravnenie3\upr4\upr4\obj\Debug\upr4.Form1.resources
+D:\kvadratnouravnenie3\upr4\upr4\obj\Debug\upr4.Properties.Resources.resources
+D:\kvadratnouravnenie3\upr4\upr4\obj\Debug\upr4.csproj.GenerateResource.Cache
+D:\kvadratnouravnenie3\upr4\upr4\bin\Debug\upr4.exe
+D:\kvadratnouravnenie3\upr4\upr4\bin\Debug\upr4.pdb
+D:\kvadratnouravnenie3\upr4\upr4\obj\Debug\upr4.exe
+D:\kvadratnouravnenie3\upr4\upr4\obj\Debug\upr4.pdb
+F:\ТСП\upr4\upr4\bin\Debug\upr4.exe.config
+F:\ТСП\upr4\upr4\obj\Debug\upr4.exe
+F:\ТСП\upr4\upr4\obj\Debug\upr4.pdb

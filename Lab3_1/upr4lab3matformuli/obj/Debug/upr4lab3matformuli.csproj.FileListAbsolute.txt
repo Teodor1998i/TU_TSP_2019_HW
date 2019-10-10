@@ -1,0 +1,14 @@
+D:\kvadratnouravnenie3\upr4lab3matformuli\upr4lab3matformuli\bin\Debug\upr4lab3matformuli.exe.config
+D:\kvadratnouravnenie3\upr4lab3matformuli\upr4lab3matformuli\obj\Debug\upr4lab3matformuli.Form1.resources
+D:\kvadratnouravnenie3\upr4lab3matformuli\upr4lab3matformuli\obj\Debug\upr4lab3matformuli.Properties.Resources.resources
+D:\kvadratnouravnenie3\upr4lab3matformuli\upr4lab3matformuli\obj\Debug\upr4lab3matformuli.csproj.GenerateResource.Cache
+D:\kvadratnouravnenie3\upr4lab3matformuli\upr4lab3matformuli\bin\Debug\upr4lab3matformuli.exe
+D:\kvadratnouravnenie3\upr4lab3matformuli\upr4lab3matformuli\bin\Debug\upr4lab3matformuli.pdb
+D:\kvadratnouravnenie3\upr4lab3matformuli\upr4lab3matformuli\obj\Debug\upr4lab3matformuli.Form2.resources
+D:\kvadratnouravnenie3\upr4lab3matformuli\upr4lab3matformuli\obj\Debug\upr4lab3matformuli.exe
+D:\kvadratnouravnenie3\upr4lab3matformuli\upr4lab3matformuli\obj\Debug\upr4lab3matformuli.pdb
+D:\kvadratnouravnenie3\upr4lab3matformuli\upr4lab3matformuli\obj\Debug\upr4lab3matformuli.csprojResolveAssemblyReference.cache
+D:\kvadratnouravnenie3\upr4lab3matformuli\upr4lab3matformuli\obj\Debug\upr4lab3matformuli.Form3.resources
+F:\ТСП\upr4lab3matformuli\upr4lab3matformuli\bin\Debug\upr4lab3matformuli.exe.config
+F:\ТСП\upr4lab3matformuli\upr4lab3matformuli\obj\Debug\upr4lab3matformuli.exe
+F:\ТСП\upr4lab3matformuli\upr4lab3matformuli\obj\Debug\upr4lab3matformuli.pdb
