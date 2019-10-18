@@ -1,0 +1,50 @@
+D:\Student\DotNET\TSP_HW\Lab1_HW\Lab3_HW\bin\Debug\Lab3_HW.exe.config
+D:\Student\DotNET\TSP_HW\Lab1_HW\Lab3_HW\bin\Debug\Lab3_HW.exe
+D:\Student\DotNET\TSP_HW\Lab1_HW\Lab3_HW\bin\Debug\Lab3_HW.pdb
+D:\Student\DotNET\TSP_HW\Lab1_HW\Lab3_HW\obj\Debug\Lab3_HW.csprojAssemblyReference.cache
+D:\Student\DotNET\TSP_HW\Lab1_HW\Lab3_HW\obj\Debug\Lab3_HW.Properties.Resources.resources
+D:\Student\DotNET\TSP_HW\Lab1_HW\Lab3_HW\obj\Debug\Lab3_HW.Task1MainForm.resources
+D:\Student\DotNET\TSP_HW\Lab1_HW\Lab3_HW\obj\Debug\Lab3_HW.csproj.GenerateResource.cache
+D:\Student\DotNET\TSP_HW\Lab1_HW\Lab3_HW\obj\Debug\Lab3_HW.csproj.CoreCompileInputs.cache
+D:\Student\DotNET\TSP_HW\Lab1_HW\Lab3_HW\obj\Debug\Lab3_HW.exe
+D:\Student\DotNET\TSP_HW\Lab1_HW\Lab3_HW\obj\Debug\Lab3_HW.pdb
+D:\Student\DotNET\TSP_HW\Lab1_HW\Lab3_HW\obj\Debug\Lab3_HW.Task1PowForm.resources
+D:\Student\DotNET\TSP_HW\Lab1_HW\Lab3_HW\obj\Debug\Lab3_HW.Task1FormulasForm.resources
+D:\Student\DotNET\TSP_HW\Lab1_HW\Lab3_HW\obj\Debug\Lab3_HW.Task1QuadricEquationForm.resources
+D:\Student\DotNET\TSP_HW\Lab1_HW\Lab3_HW\obj\Debug\Lab3_HW.Task2MainForm.resources
+D:\Student\DotNET\TSP_HW\Lab1_HW\Lab3_HW\obj\Debug\Lab3_HW.Task3MainForm.resources
+D:\Student\DotNET\TSP_HW\Lab3_HW\bin\Debug\Lab3_HW.exe.config
+D:\Student\DotNET\TSP_HW\Lab3_HW\bin\Debug\Lab3_HW.exe
+D:\Student\DotNET\TSP_HW\Lab3_HW\bin\Debug\Lab3_HW.pdb
+D:\Student\DotNET\TSP_HW\Lab3_HW\obj\Debug\Lab3_HW.csprojAssemblyReference.cache
+D:\Student\DotNET\TSP_HW\Lab3_HW\obj\Debug\Lab3_HW.Properties.Resources.resources
+D:\Student\DotNET\TSP_HW\Lab3_HW\obj\Debug\Lab3_HW.Task1QuadricEquationForm.resources
+D:\Student\DotNET\TSP_HW\Lab3_HW\obj\Debug\Lab3_HW.Task1FormulasForm.resources
+D:\Student\DotNET\TSP_HW\Lab3_HW\obj\Debug\Lab3_HW.Task1MainForm.resources
+D:\Student\DotNET\TSP_HW\Lab3_HW\obj\Debug\Lab3_HW.Task1PowForm.resources
+D:\Student\DotNET\TSP_HW\Lab3_HW\obj\Debug\Lab3_HW.Task2MainForm.resources
+D:\Student\DotNET\TSP_HW\Lab3_HW\obj\Debug\Lab3_HW.Task3MainForm.resources
+D:\Student\DotNET\TSP_HW\Lab3_HW\obj\Debug\Lab3_HW.csproj.GenerateResource.cache
+D:\Student\DotNET\TSP_HW\Lab3_HW\obj\Debug\Lab3_HW.csproj.CoreCompileInputs.cache
+D:\Student\DotNET\TSP_HW\Lab3_HW\obj\Debug\Lab3_HW.exe
+D:\Student\DotNET\TSP_HW\Lab3_HW\obj\Debug\Lab3_HW.pdb
+D:\Student\DotNET\TSP_HW\Lab3_HW\obj\Debug\Lab3_HW.Task4MainForm.resources
+D:\Student\DotNET\TSP_HW\Lab3_HW\obj\Debug\Lab3_HW.Task5MainForm.resources
+D:\Student\DotNET\TSP_HW\Lab3_HW\obj\Debug\Lab3_HW.Task6MainForm.resources
+C:\Users\Theodore\Desktop\dask\5ti sem\tsp\bobyGitHubHW\TSP_HW-master\Lab3_HW\bin\Debug\Lab3_HW.exe.config
+C:\Users\Theodore\Desktop\dask\5ti sem\tsp\bobyGitHubHW\TSP_HW-master\Lab3_HW\bin\Debug\Lab3_HW.exe
+C:\Users\Theodore\Desktop\dask\5ti sem\tsp\bobyGitHubHW\TSP_HW-master\Lab3_HW\bin\Debug\Lab3_HW.pdb
+C:\Users\Theodore\Desktop\dask\5ti sem\tsp\bobyGitHubHW\TSP_HW-master\Lab3_HW\obj\Debug\Lab3_HW.csprojAssemblyReference.cache
+C:\Users\Theodore\Desktop\dask\5ti sem\tsp\bobyGitHubHW\TSP_HW-master\Lab3_HW\obj\Debug\Lab3_HW.Properties.Resources.resources
+C:\Users\Theodore\Desktop\dask\5ti sem\tsp\bobyGitHubHW\TSP_HW-master\Lab3_HW\obj\Debug\Lab3_HW.Task1QuadricEquationForm.resources
+C:\Users\Theodore\Desktop\dask\5ti sem\tsp\bobyGitHubHW\TSP_HW-master\Lab3_HW\obj\Debug\Lab3_HW.Task1FormulasForm.resources
+C:\Users\Theodore\Desktop\dask\5ti sem\tsp\bobyGitHubHW\TSP_HW-master\Lab3_HW\obj\Debug\Lab3_HW.Task1MainForm.resources
+C:\Users\Theodore\Desktop\dask\5ti sem\tsp\bobyGitHubHW\TSP_HW-master\Lab3_HW\obj\Debug\Lab3_HW.Task1PowForm.resources
+C:\Users\Theodore\Desktop\dask\5ti sem\tsp\bobyGitHubHW\TSP_HW-master\Lab3_HW\obj\Debug\Lab3_HW.Task2MainForm.resources
+C:\Users\Theodore\Desktop\dask\5ti sem\tsp\bobyGitHubHW\TSP_HW-master\Lab3_HW\obj\Debug\Lab3_HW.Task3MainForm.resources
+C:\Users\Theodore\Desktop\dask\5ti sem\tsp\bobyGitHubHW\TSP_HW-master\Lab3_HW\obj\Debug\Lab3_HW.Task4MainForm.resources
+C:\Users\Theodore\Desktop\dask\5ti sem\tsp\bobyGitHubHW\TSP_HW-master\Lab3_HW\obj\Debug\Lab3_HW.Task5MainForm.resources
+C:\Users\Theodore\Desktop\dask\5ti sem\tsp\bobyGitHubHW\TSP_HW-master\Lab3_HW\obj\Debug\Lab3_HW.Task6MainForm.resources
+C:\Users\Theodore\Desktop\dask\5ti sem\tsp\bobyGitHubHW\TSP_HW-master\Lab3_HW\obj\Debug\Lab3_HW.csproj.GenerateResource.cache
+C:\Users\Theodore\Desktop\dask\5ti sem\tsp\bobyGitHubHW\TSP_HW-master\Lab3_HW\obj\Debug\Lab3_HW.exe
+C:\Users\Theodore\Desktop\dask\5ti sem\tsp\bobyGitHubHW\TSP_HW-master\Lab3_HW\obj\Debug\Lab3_HW.pdb
