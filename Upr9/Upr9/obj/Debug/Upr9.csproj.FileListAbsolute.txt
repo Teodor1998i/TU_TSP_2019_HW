@@ -1,0 +1,9 @@
+C:\Users\Theodore\Desktop\dask\5ti sem\ТСП\Upr9\Upr9\bin\Debug\Upr9.exe.config
+C:\Users\Theodore\Desktop\dask\5ti sem\ТСП\Upr9\Upr9\bin\Debug\Upr9.exe
+C:\Users\Theodore\Desktop\dask\5ti sem\ТСП\Upr9\Upr9\bin\Debug\Upr9.pdb
+C:\Users\Theodore\Desktop\dask\5ti sem\ТСП\Upr9\Upr9\obj\Debug\Upr9.csprojAssemblyReference.cache
+C:\Users\Theodore\Desktop\dask\5ti sem\ТСП\Upr9\Upr9\obj\Debug\Upr9.Form1.resources
+C:\Users\Theodore\Desktop\dask\5ti sem\ТСП\Upr9\Upr9\obj\Debug\Upr9.Properties.Resources.resources
+C:\Users\Theodore\Desktop\dask\5ti sem\ТСП\Upr9\Upr9\obj\Debug\Upr9.csproj.GenerateResource.cache
+C:\Users\Theodore\Desktop\dask\5ti sem\ТСП\Upr9\Upr9\obj\Debug\Upr9.exe
+C:\Users\Theodore\Desktop\dask\5ti sem\ТСП\Upr9\Upr9\obj\Debug\Upr9.pdb
